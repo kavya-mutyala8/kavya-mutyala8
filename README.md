@@ -22,4 +22,4 @@ HTML · CSS · JavaScript · Python · C++ · DSA
 | clone-ecommerce-website | Amazon homepage clone | (link coming soon) |
 
 ## Contact
-LinkedIn: (coming soon)
+LinkedIn: www.linkedin.com/in/kavya-mutyala
